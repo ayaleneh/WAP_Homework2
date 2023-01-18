@@ -12,3 +12,21 @@ li{
 	font-style:italic;
 	color:brown;
 }
+
+a{
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+}
+.hasdropcap::first-letter{
+	font-size:250%;
+}
+ol {
+	display: flex;
+	flex-direction: column-reverse;
+}
+
+li {
+	flex: 0 0 auto;
+}
