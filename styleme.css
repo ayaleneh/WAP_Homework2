@@ -1,0 +1,14 @@
+body{
+	background-color:burlywood;
+}
+.headerc{
+	color:darkorchid;
+}
+li{
+	font-family:'Bookman Old Style';
+}
+.bold{
+	font-weight:600;
+	font-style:italic;
+	color:brown;
+}
